@@ -1,0 +1,38 @@
+_repo: The-Heart-of-PinocchioNew-Adventures-of-the-Celebrated-Little-Puppet_41446
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Flanagan, J. R.
+    gutenberg_agent_id: '41188'
+    url: http://www.gutenberg.org/2009/agents/41188
+  translator:
+    agent_name: Watson, Virginia
+    alias: Watson, Virginia Cruse
+    birthdate: 1872
+    gutenberg_agent_id: '6726'
+    url: http://www.gutenberg.org/2009/agents/6726
+covers:
+- cover_type: archival
+  image_path: 41446-h/images/cover001.jpg
+creator:
+  author:
+    agent_name: Nipote, Collodi
+    alias: Lorenzini, Paolo
+    gutenberg_agent_id: '41187'
+    url: http://www.gutenberg.org/2009/agents/41187
+description: ''
+gutenberg_issued: '2012-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pinocchio (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Puppets -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'War -- Juvenile fiction'
+title: 'The Heart of Pinocchio: New Adventures of the Celebrated Little Puppet'
+url: http://www.gutenberg.org/ebooks/41446
